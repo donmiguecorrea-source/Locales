@@ -1,0 +1,35 @@
+Misiones
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-name="Canal 6 Posadas" tvg-logo="https://i.imgur.com/OamBiS5.png",Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal5SantaFe.ar" tvg-name="Canal 5 Santa Fe" ,Canal 5 Santa Fe
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-name="Canal 4 San Juan" ,Canal 4 San Juan
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+
+#EXTINF:-1 tvg-id="Canal7Salta.ar" tvg-name="Canal 7 Salta" ,Canal 7 Salta
+https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
+
+#EXTINF:-1 tvg-id="Canal7Neuquen.ar" tvg-name="Canal 7 Neuquén" ,Canal 7 Neuquén
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-name="Canal 7 Jujuy" ,Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-name="Canal 10 Córdoba",Canal 10 Córdoba
+https://streaming.ucc.edu.ar:19360/canal10/canal10.m3u8
+
+#EXTINF:-1 tvg-id="Canal79LaCosta.ar" tvg-name="Canal 79 La Costa",Canal 79 La Costa
+https://streamconex.com:19360/lacosta/lacosta.m3u8
+
+#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
+https://panel.host-live.com:19360/8250/8250.m3u8
+
+#EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" tvg-logo="https://files.catbox.moe/gb2iih.png",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+
+EXTINF:-1 , Canal 8 San Juan Ⓨ
+https://anym3u8player.com/youtube.php/id/6963cdfbab267.m3u8
