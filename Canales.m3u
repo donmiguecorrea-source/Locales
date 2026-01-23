@@ -1,2 +1,213 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tv/argentina.epg.xml" 
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tv/argentina.epg.xml"
+
+CANALES LOCALES ############################################################################################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="NG FEDERAL CHACO" tvg-logo="https://pbs.twimg.com/profile_images/1520248287202365440/DqQ5t3MO_400x400.jpg", NG FEDERAL CHACO
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1353" tvg-name="Ciudad TV Resistencia" tvg-logo="https://cdn.m3u.cl/logo/1353_Ciudad_TV_Resistencia.png", Ciudad TV Resistencia | AR 
+https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-name="Chaco TV" tvg-logo="https://i.imgur.com/b6RerDw.png", SOMOS UNO CHACO TV
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-name="Canal 9 Resistencia" tvg-logo="https://i.imgur.com/xqgRFpC.png",Canal 9 Resistencia
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
+EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" ,13Max TV Corrientes 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" ,13Max TV Corrientes 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telenord.ar@SD" tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg",Telenord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+
+EXTINF:-1 tvg-ID="ext" tvg-name="TELENORD CORRIENTES" tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg",TELENORD Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" tvg-logo="https://i.imgur.com/mSn7ACs.png",5tv Corrientes 
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.ar@SD",Telemax 
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-name="Canal 9 Litoral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png",Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
+http://107.152.39.199:8030/hls/canal7.m3u8
+
+arreglar EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/133px-Canal_9_2015.png" ,El nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="0915" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+EXTINF:-1  group-title="Bics Extra", telefe rosario
+https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8 
+
+EXTINF:-1 tvg-id="TELEFE" tvg-name="Telefe" tvg-logo="https://www.google.com/url?q=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%2528nuevo_logo%2529.png/640px-Telefe_%2528nuevo_logo%2529.png&sa=U&ved=0ahUKEwi_3ojq-5L5AhU5uJUCHRHkC4IQ5hMIBQ&usg=AOvVaw1vpC6XGqadvyHuZy4mKVJj" group-title="General",Telefe
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=796275211&_cdn_timestamp=1683980672&_cdn_token=bbea422a5549c9fcde1f70a9e3fd07336ae644b8
+
+EXTINF:-1  group-title="Bics Extra", telefe alternativo
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+EXTINF:-1  group-title="Bics Extra", telefe alternativo tres
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
+
+
+EXTINF:-1 tvg-id="1909" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PÚBLICA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tvpublica.png",TV PÚBLICA 
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8 
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinisima Satelital" tvg-logo="https://i.imgur.com/xFgJawa.png",Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png" ,Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-id="ar.encuentro" tvg-name="Encuentro" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036 
+
+#EXTINF:-1 tvg-id="LitusTV.ar" tvg-name="Litus TV" tvg-logo="https://i.imgur.com/QIGSf4L.png",Litus TV
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+
+
+
+
+
+
+CANALES DE NOTICIA NACIONALES ############################################################################################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
+https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+
+EXTINF:-1 group-title="Bics Extra", La Nacion
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="La Nación +" tvg-logo="https://files.catbox.moe/lanacionplus.png",La Nación +
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+EXTVLCOPT:http-referrer=https://www.lanacion.com.ar/
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
+
+EXTINF:-1 tvg-id="0904" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
+
+EXTINF:-1 tvg-id="ar.youtube.c5n" tvg-name="C5N Ⓨ" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQq=s176-c-k-c0x00ffffff-no-rj",C5N Ⓨ
+https://anym3u8player.com/youtube.php/id/6963e441a9065.m3u8
+
+EXTINF:-1 group-title="Amerika",Argentina - C5N
+rtmp://$OPT:rtmp-raw=rtmp://c5n.stweb.tv:1935/c5n playpath=live_media swfUrl=http://c5n.minutouno.com//js/c5n/jwplayer/player.swf live=1
+
+EXTINF:-1  group-title="Bics Extra", C5N
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+
+EXTINF:-1 tvg-name="C5N Argentina (repo)" ,C5N
+https://iptv-org.github.io/iptv/channels/ar/C5N.m3u8
+
+
+
+#EXTINF:-1 tvg-name="A24" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" ,A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+EXTINF:-1 group-title="Bics Extra", IP TV
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
+
+EXTINF:-1 tvg-id="775" tvg-name="ZN Noticias" tvg-logo="https://cdn.m3u.cl/logo/775_ZN_Noticias.png", ZN Noticias | AR
+https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+EXTINF:-1 tvg-id="0922" tvg-name="Argentina 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/2560px-Argentina12_2025.svg.png",Argentina 12
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__24.5ARGENTINA1
+
+EXTINF:-1 ,Ar|12 Ⓨ
+https://anym3u8player.com/youtube.php/id/6963c8fec07e8.m3u8
+
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" tvg-logo="https://i.imgur.com/4hDCB1M.png",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+
+EXTINF:-1 tvg-name="Telefe Noticias Ⓨ" ,Telefe Noticias Ⓨ
+https://anym3u8player.com/youtube.php/id/6962c514ed347.m3u8
+
+#EXTINF:-1 tvg-id="VTV.ar" tvg-name="VTV" tvg-logo="https://i.imgur.com/TLaausJ.png",VTV
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTN.ar" tvg-name="RTN" tvg-logo="https://i.postimg.cc/3R2nS4Mx/rtn.png",RTN Neuquén 
+https://media.neuquen.gov.ar/rtn/television/media.m3u8
+
+#EXTINF:-1 tvg-id="Canal2Misiones.ar" tvg-name="Canal 2 Misiones" tvg-logo="https://i.imgur.com/YqTNXDf.png",Canal 2 Misiones
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-name="Canal 6 Posadas" tvg-logo="https://i.imgur.com/OamBiS5.png",Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal5SantaFe.ar" tvg-name="Canal 5 Santa Fe" ,Canal 5 Santa Fe
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-name="Canal 4 San Juan" ,Canal 4 San Juan
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+
+#EXTINF:-1 tvg-id="Canal7Salta.ar" tvg-name="Canal 7 Salta" ,Canal 7 Salta
+https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
+
+#EXTINF:-1 tvg-id="Canal7Neuquen.ar" tvg-name="Canal 7 Neuquén" ,Canal 7 Neuquén
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-name="Canal 7 Jujuy" ,Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-name="Canal 10 Córdoba",Canal 10 Córdoba
+https://streaming.ucc.edu.ar:19360/canal10/canal10.m3u8
+
+#EXTINF:-1 tvg-id="Canal79LaCosta.ar" tvg-name="Canal 79 La Costa",Canal 79 La Costa
+https://streamconex.com:19360/lacosta/lacosta.m3u8
+
+#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
+https://panel.host-live.com:19360/8250/8250.m3u8
+
+#EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" tvg-logo="https://files.catbox.moe/gb2iih.png",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+
+EXTINF:-1 , Canal 8 San Juan Ⓨ
+https://anym3u8player.com/youtube.php/id/6963cdfbab267.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TodoNovelas.es@SD",Todo Novelas
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTelenovelas.us@Spain",Pluto TV Telenovelas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:0 channel-id="telemundo-telenovelas-clasicas-ptv1" channel-number="4180" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Telemundo Telenovelas Clásicas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ae5e-c01c-11f0-a1b3-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29c128fe-0c7f-4e99-889c-7986fd2c851f&userId=&serverSideAds=true 
 
